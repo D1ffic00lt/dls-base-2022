@@ -1,5 +1,9 @@
 .idea
 123.py
 main.jpg
-.DS_Store
+*.DS_Store
 catboost_info/
+14. Нейронные сети/data/
+14. Нейронные сети/MNIST/
+15. Домашнее задание. Сверточные и полносвязные нейросети/MNIST/
+*.csv
