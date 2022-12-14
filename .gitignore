@@ -1,7 +1,7 @@
 .idea
 123.py
 main.jpg
-.DS_Store
+*.DS_Store
 catboost_info/
 14. Нейронные сети/data/
 14. Нейронные сети/MNIST/
@@ -11,3 +11,4 @@ catboost_info/
 16. Домашнее задание классификация Симпсонов/testset
 16. Домашнее задание классификация Симпсонов/train
 *.pkl
+
